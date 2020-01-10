@@ -1,2 +1,2 @@
 # lec1
-first lab
+first lab...
