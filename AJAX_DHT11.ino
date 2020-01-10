@@ -84,8 +84,8 @@ String html_1 = R"=====(
 #include <ESP8266WiFi.h>
  
 // change these values to match your network
-char ssid[] = "TEO24";       //  your network SSID (name)
-char pass[] = "123grybas321";          //  your network password
+char ssid[] = "";       //  your network SSID (name)
+char pass[] = "";          //  your network password
  
 #include "DHT.h"
 #define DHTPIN 4     // what digital pin we're connected to
